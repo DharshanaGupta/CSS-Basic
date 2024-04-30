@@ -1,0 +1,177 @@
+.buttons{
+    width:40%;
+    min-width:800px;
+    margin: 10rem auto;
+}
+.btn{
+   padding: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:1.1rem;
+}
+.btn1
+{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+
+.btn2
+{
+    border: 1px solid rgb(30, 115, 241);
+    background-color:rgb(30, 115, 241);
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.btn3
+{
+    border: 1px solid rgb(31, 150, 57);
+    background-color: rgb(31, 150, 57);
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.btn4
+{
+    border: 1px solid rgb(237, 159, 14);
+    background-color: rgb(237, 159, 14);
+    color: black;
+    padding: 0.6rem 1.5rem;
+}
+.btn5
+{
+    border: 1px solid teal;
+    background-color: teal;
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.btn6
+{
+    border: 1px solid black;
+    background-color:black;
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.btn7
+{
+    border: 1px solid rgb(194, 186, 186);
+    background-color: rgb(194, 186, 186);
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.border-btn{
+    margin:1.3rem 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.1rem;
+}
+
+.border-btn1{
+    border: 1px solid rgb(194, 186, 186);
+    padding: 0.6rem 1.5rem;
+}
+.border-btn2{
+    border: 1px solid rgb(194, 186, 186);
+    background-color: rgb(194, 186, 186);
+    padding: 0.6rem 1.5rem;
+    border-radius:0.3rem;
+}
+.border-btn3{
+    border:1px solid rgb(30, 115, 241);
+    padding: 0.6rem 1.5rem;
+    border-radius:0.2rem;
+}
+.border-btn4{
+    border: 1px solid red;
+    padding: 0.6rem 1.5rem;
+    border-radius:0.5rem;
+    color: red;
+}
+.border-btn5{
+    border: 1px solid rgb(31, 150, 57);
+    padding: 0.6rem 1.5rem;
+    border-radius:0.9rem;
+}
+.border-btn6{
+    border:1px solid red;
+    background-color: red;
+    color:white;
+    padding: 0.6rem 1.5rem;
+    font-weight: bold;
+    text-shadow: 0 1px 0 black;
+}
+.border-btn7{
+    border: 1px solid black;
+    background-color:black;
+    color: white;
+    padding: 0.6rem 1.5rem;
+}
+.border-btn7:hover{
+    padding: 0.9rem 1.9rem;
+}
+
+.round-btn{
+    margin:1.3rem 1rem;
+}
+.round-btn1{
+    width: 7%;
+    display: inline-block;
+    height: 3rem;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 3rem;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+    font-size: 1.8rem;
+}
+
+.round-btn2{
+    width: 7%;
+    display: inline-block;
+    height: 3rem;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 3rem;
+    font-weight: bolder;
+    color: white;
+    background-color: teal;
+    font-size: 1.8rem;
+}
+.round-btn3{
+    width: 7%;
+    display: inline-block;
+    height: 3rem;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 3rem;
+    font-weight: bolder;
+    color:black;
+    background-color: rgb(194, 186, 186);
+    font-size: 1.8rem;
+}
+.float-btn{
+    margin:1.3rem 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.float-btn1{
+    border: 1px solid black;
+    background-color: black;
+    color:white;
+    float:left;
+    padding:0.6rem 1.5rem;
+}
+.float-btn2{
+    border: 1px solid teal;
+    background-color:teal;
+    color:white;
+    float:left;
+    padding:0.6rem 1.5rem;
+}
+.float-btn3{
+    border: 1px solid rgb(134, 130, 130);
+    background-color:rgb(134, 130, 130);
+    color:white;
+    float:left;
+    padding:0.6rem 1.5rem;
+}
+    
+

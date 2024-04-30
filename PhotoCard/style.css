@@ -1,0 +1,30 @@
+.body-photo {
+    width:30%;
+    min-width: 500px;
+    margin: 0 25%;
+}
+.photo-card .image
+{
+    width:100%;
+    min-width: 500px;
+    overflow: scroll;
+}
+@media screen and (min-width:500px){
+    .photo-card .image
+{
+    width:100%;
+    min-width: 500px;
+    overflow: scroll;
+} 
+}
+.photo-card .content{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 25px;
+}
+.photo-card {
+    box-shadow: 3px 3px 10px gray;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

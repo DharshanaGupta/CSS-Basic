@@ -1,0 +1,19 @@
+.icons{
+    width:60%;
+    min-width:900px;
+    margin:10rem auto;
+    margin-right:0%;
+}
+.row1,.row2,.row3
+{
+    float:left;
+    margin-right:5rem;
+}
+.fa-home,.fa-bars,.fa-arrow-left,.fa-arrow-right,.fa-search,.fa-close,.fa-refresh,.fa-trash,.fa-male,.fa-car,.fa-truck,.fa-plane
+{
+    font-size: 3rem !important;
+}
+.home,.search,.bars,.close,.car,.arrow-left,.refresh,.arrow-right,.trash{
+    margin-bottom: 2rem;
+    
+}
